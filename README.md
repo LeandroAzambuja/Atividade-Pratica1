@@ -1,18 +1,47 @@
-# Atividade Prática 01
+# 🧠 Atividade Prática 01 – Programação
 
-Repositório referente à Atividade Prática 01 da disciplina de Programação.
+## 📌 Sobre o Projeto
 
-## Conteúdo
-O projeto contém um script em Python com os seguintes exercícios:
+Este repositório contém a **Atividade Prática 01** da disciplina de Programação, com o objetivo de exercitar conceitos básicos de lógica, variáveis, operações matemáticas e entrada/saída de dados.
 
-1. Programa de saudação ("Hello, world!")
-2. Calculadora de soma
-3. Calculadora de volume de uma caixa retangular
-4. Calculadora de preço total de uma compra
-5. Cálculo da diferença entre produtos de valores inteiros
+A atividade foi desenvolvida de forma clara e organizada, priorizando **legibilidade do código**, **boas práticas iniciais** e **facilidade de compreensão** para fins acadêmicos.
 
-## Linguagem utilizada
-- Python 3
+---
 
-## Autor
-Leandro Azambuja
+## 🚀 Exercícios Desenvolvidos
+
+O projeto contempla os seguintes programas:
+
+1. **Programa de Saudação**  
+   Exibe a mensagem `Hello, world!`.
+
+2. **Calculadora de Soma**  
+   Realiza a soma de dois números inteiros pré-definidos.
+
+3. **Calculadora de Volume**  
+   Calcula o volume de uma caixa retangular a partir de suas dimensões.
+
+4. **Calculadora de Preço Total**  
+   Calcula o valor total de uma compra com base no preço unitário e quantidade.
+
+5. **Cálculo de Diferença entre Produtos**  
+   Calcula a diferença entre o produto de dois pares de números inteiros, conforme a fórmula:  
+   `DIFERENCA = (A * B) - (C * D)`
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python 3**
+- Editor de código de preferência do aluno
+- Git & GitHub para versionamento
+
+---
+
+## 📂 Estrutura do Repositório
+
+```text
+Atividade-Pratica1/
+│
+├── atividade_pratica_01.py
+├── README.md

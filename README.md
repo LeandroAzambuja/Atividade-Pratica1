@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-Este repositório contém a **Atividade Prática 01** da disciplina de Programação, com o objetivo de exercitar conceitos básicos de lógica, variáveis, operações matemáticas e entrada/saída de dados.
+Este repositório contém a **Atividade Prática 01** da disciplina de Programação da Escolda da Nuvem, com o objetivo de exercitar conceitos básicos de lógica, variáveis, operações matemáticas e entrada/saída de dados.
 
 A atividade foi desenvolvida de forma clara e organizada, priorizando **legibilidade do código**, **boas práticas iniciais** e **facilidade de compreensão** para fins acadêmicos.
 
